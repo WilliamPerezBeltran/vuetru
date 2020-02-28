@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <h2>edit Links</h2>
-    
-   
+    <h2>searchhhh</h2> 
   </div>
 </template>
