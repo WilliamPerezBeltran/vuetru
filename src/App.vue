@@ -1,9 +1,5 @@
 <template>
   <div id="app">
-      <!-- <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li> -->
-      <!-- <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li> -->
-      <!-- <li><a href="https://chat.vuejs.org" target="_blank">Community Chat</a></li> -->
-      <!-- <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li> -->
       <app-header></app-header>
       <router-view></router-view>
   </div>
